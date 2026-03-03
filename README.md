@@ -1,8 +1,5 @@
 # Workspace
 
-# Mi Proyecto
-Este es mi primer repositorio en GitHub.
-
 ## Descripción
 mi nombre es **Alexander José Lara Velasquez** del grado 11°2 Aquí voy a subir mis trabajos de la media tecnica.
 
