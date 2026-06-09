@@ -36,6 +36,7 @@ function Navbar() {
       }`}
     >
       <div className="container">
+        <img src="https://static.wixstatic.com/media/2ab435_78525501f87e4365aaacb5568991bc2e~mv2.jpg/v1/fill/w_2500,h_1796,al_c/2ab435_78525501f87e4365aaacb5568991bc2e~mv2.jpg" alt="Logo VoltTec" className="logo-imagen" />
 
         {/* Logo */}
         <a className="navbar-brand d-flex align-items-center gap-2" href="#inicio">

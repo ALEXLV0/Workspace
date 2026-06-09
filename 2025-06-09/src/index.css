@@ -39,6 +39,14 @@ body {
 .logo-principal { color: var(--voltec-amarillo); }
 .logo-secundario { color: #ffffff; }
 
+.logo-imagen {
+  width: 60px;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  margin-right: 0.75rem;
+}
+
 .nav-link-custom {
   color: rgba(255, 255, 255, 0.85) !important;
   font-weight: 500;
