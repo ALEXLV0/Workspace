@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(135deg, #111111, #111111);
+  color: #f5f5f5;
+}
+
+.contenedor {
+  width: 600px;
+  margin: auto;
+  background: #1f1f1f;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input,
+select,
+textarea,
+button {
+  margin: 6px 0 15px;
+  padding: 8px;
+  border: 1px solid #444;
+  border-radius: 6px;
+  background: #2d2d2d;
+  color: #f5f5f5;
+}
+
+button {
+  background: linear-gradient(135deg, #32cd32, #1e90ff);
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:disabled {
+  background: #555;
+  color: #bdbdbd;
+  cursor: not-allowed;
+}
+
+img {
+  border-radius: 10px;
+  border: 2px solid #32cd32;
+}
